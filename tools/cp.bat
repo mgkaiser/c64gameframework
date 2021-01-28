@@ -1,1 +1,1 @@
-copy *.exe c:\programs
+copy *.exe C:\C64\Tools
